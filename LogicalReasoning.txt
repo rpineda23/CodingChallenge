@@ -1,0 +1,5 @@
+7 a.m. on Saturday
+A because the number of hours from 8:00 p.m. on Thursday to 8:00 a.m. on Monday is 84.
+In 84 hours the watch lost 12 minutes. 
+But to show the correct time the watch has to lose 5 minutes. 
+This would happen in 5/12 x 84 = 35 hours.
